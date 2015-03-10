@@ -18,3 +18,9 @@ patching file app/code/core/Mage/Adminhtml/Block/Dashboard/Graph.php
 patching file app/code/core/Mage/Adminhtml/controllers/DashboardController.php
 
 
+-e -n 2015-03-10 18:42:01 UTC | SUPEE-2619 | EE_1.13.1.0 | v1 | d0a215a139aa5e75d60e42efa1b2661d84fef2be | Tue Dec 10 17:41:31 2013 +0200 | v1.13.1.0..HEAD
+patching file app/code/core/Mage/Catalog/Model/Product.php
+patching file app/code/core/Mage/Core/Controller/Varien/Router/Standard.php
+patching file app/code/core/Zend/Pdf/FileParserDataSource.php
+
+
